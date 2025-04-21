@@ -1,4 +1,4 @@
-package com.javalife.cicf;
+package com.javalife.cicd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
